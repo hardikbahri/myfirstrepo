@@ -1,0 +1,27 @@
+.card{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+.card-img-top{
+    width: 285px;
+    height: 300px;
+}
+.d-block w-100{
+    margin:10px;
+    
+}
+.guitar{
+    display: inline-block;}
+p1{
+   
+    color: darkgreen;
+    margin-top: 2cm;
+
+}
+    #div{
+        column-count: 1;
+        padding: 50px;
+        color: rgb(41, 39, 39);
+    }
